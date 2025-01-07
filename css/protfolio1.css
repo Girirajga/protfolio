@@ -1160,7 +1160,7 @@ footer .wave#wave4
     }
 }
 
-@media (max-width: 690px) {
+@media (max-width: 500px) {
     .max-width{
         padding: 0 23px;
     }
