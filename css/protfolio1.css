@@ -1160,7 +1160,7 @@ footer .wave#wave4
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 690px) {
     .max-width{
         padding: 0 23px;
     }
@@ -1175,7 +1175,7 @@ footer .wave#wave4
     }
     .classbox
     {
-            width: 153px;
+            width: 53px;
             height: 88px;
     }
     .services .serv-content .card{
